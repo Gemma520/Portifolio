@@ -29,5 +29,7 @@ LinkedIn : https://www.linkedin.com/in/gemariah-madindi-63216359/
 
 
 # Projects 
+Capstone Project II: Unsupervised Machine Learning
+https://github.com/Gemma520/Portifolio/blob/main/CAPSTONE%20PROJECT%202.ipynb
 
 
