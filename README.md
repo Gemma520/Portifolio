@@ -33,3 +33,8 @@ Capstone Project II: Unsupervised Machine Learning
 https://github.com/Gemma520/Portifolio/blob/main/CAPSTONE%20PROJECT%202.ipynb
 
 
+Capstone Project II: Unsupervised Machine Learning (NLP)
+
+https://github.com/Gemma520/Portifolio/blob/main/L3T20.ipynb
+
+
